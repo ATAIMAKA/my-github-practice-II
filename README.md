@@ -3,7 +3,7 @@
 ## Contributors
  **Name: Yaseer Abdullahi Kumo**
  
- [yaseerkumo@email.com](mailto:yaseerkumo@email.com)
+ [yasirabdullahi580@email.com](mailto:yasirabdullahi580@email.com)
  
  **Instructor** 
  
