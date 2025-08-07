@@ -5,6 +5,6 @@
  
  [yasirabdullahi580@email.com](mailto:yasirabdullahi580@email.com)
  
- **Instructor** 
+ **Instructor:** 
  
  [Mubaraq](https://github.com/mubarraqqq)
