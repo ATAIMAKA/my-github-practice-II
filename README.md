@@ -1,2 +1,7 @@
-# my-github-practice-II
-This repository is for practicing the GitHub Flow
+# My GitHub Practice Repo
+
+## Contributors
+ **Yaseer Abdullahi Kumo**
+ [yaseerkumo@email.com](mailto:yaseerkumo@email.com)
+ **Instructor** 
+ [Mubaraq](https://github.com/mubarraqqq)
